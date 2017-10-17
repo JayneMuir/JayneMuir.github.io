@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "https://jaynemuir.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -28,7 +28,7 @@ theme_settings:
   github: JayneMuir # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin: www.linkedin.com/in/jayne-muir-sandiego-ca # Full URL
+  linkedin: www.linkedin.com/jayne-muir-sandiego-ca # Full URL
   pinterest:
   reddit:
   soundcloud:
@@ -74,5 +74,3 @@ sass:
   style: :compressed
 
 gems: [jekyll-paginate]
-
-theme: jekyll-theme-minimal
