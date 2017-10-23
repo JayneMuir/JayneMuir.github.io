@@ -12,10 +12,10 @@ theme_settings:
      <h1>All Around Object Oriented Software Engineer</h1>
      <h5>Located in the Greater San Diego Area</h5>
      <p> Portofolio: Front End Web Development </p>
-  header_text_feature_image: "./img/TorreyPines_edited3.jpg"
+  header_text_feature_image: "./img/flowers-2467997_1920.png"
   footer_text:
   
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> 
 
   # Icons
   rss: false
@@ -28,7 +28,7 @@ theme_settings:
   github: JayneMuir # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin: www.linkedin.com/jayne-muir-sandiego-ca # Full URL
+  linkedin: www.linkedin.com/in/jayne-muir-sandiego-ca # Full URL
   pinterest:
   reddit:
   soundcloud:

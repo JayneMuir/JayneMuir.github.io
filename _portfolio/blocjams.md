@@ -28,9 +28,18 @@ I started off using HTML to build the backbone of the application layout. Then I
 
 ## Solution
 1. With HTML <div> sections I created the backbone for the main areas of the landing page and I gave these elements class names to be used in the css and javascript content:
-  * navigation bar - `<class = "navbar"></class>`
-  * hero content - `<class = "hero-content" ></class>`
-  * selling points - `<class = "selling-points"></class>`
+  * navigation bar
+    ```
+    `<class = "navbar"></class>`
+    ```
+  * hero content 
+    ```
+    `<class = "hero-content" ></class>`
+    ```
+  * selling points 
+    ```
+    `<class = "selling-points"></class>`
+    ```
     
 2.Using the class names and CSS, I was able to easily add styling to the elements. I kept the to give the application a modern appearance. CSS styling separate from the HTML content. This *encapsulates* the  content and makes it easier to understand and build upon.
     
